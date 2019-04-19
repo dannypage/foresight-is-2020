@@ -1,0 +1,22 @@
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th><span class="sort" data-sort="name">Candidate</span></th>
+			<th><span class="sort" data-sort="city">Website</span></th>
+			<th><span class="sort" data-sort="state">State</span></th>
+			<th><span class="sort" data-sort="district">State</span></th>
+			<th><span class="sort" data-sort="status">Tags</span></th>
+		</tr>
+	</thead>
+	<tbody class="list">
+	{% for candidate in site.data.candiates %}
+		<tr>
+			<td class="name">{{ candidate.candidate }}</td>
+			<td class="website">{{ candidate.website }}</td>
+			<td class="state">{{ candidate.state }}</td>
+			<td class="district">{{ candiate.district }}</td>
+			<td class="status">{{ candidate.status }}</td>
+		</tr>
+	{% endfor %}
+	</tbody>
+</table>
