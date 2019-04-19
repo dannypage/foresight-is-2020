@@ -2,7 +2,17 @@
 # Add Your Candidate!
 
 - candidate:	Mckayla Wilke
-  website:	https://www.mckayla2020.com/
-  state: 	Maryland  
-  district:	MD-5
-  status:	Primary
+  website:	  https://www.mckayla2020.com/
+  state: 	    Maryland  
+  district:	  "MD-5"
+  role:       U.S. House of Representatives
+  status:	    Primary
+  twitter:    MeetMckayla
+
+- candidate:  Alexandria Ocasio-Cortez
+  website:    https://ocasio-cortez.house.gov/
+  state:      New York
+  district:   "NY-14"
+  status:     Incumbent
+  twitter:    AOC
+  
