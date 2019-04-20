@@ -1,5 +1,5 @@
 ---
-name:  Mckayla Wilke
+name:       Mckayla Wilke
 website:    https://www.mckayla2020.com/
 state:      Maryland  
 district:   "MD-5"
