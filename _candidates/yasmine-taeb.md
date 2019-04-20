@@ -1,5 +1,5 @@
 ---
-candidate:  Yasmine Taeb
+name:  Yasmine Taeb
 website:    https://yasmineforvirginia.com/
 state:      Virginia  
 district:   SD-35

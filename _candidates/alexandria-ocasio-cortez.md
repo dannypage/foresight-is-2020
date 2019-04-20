@@ -1,5 +1,5 @@
 ---
-candidate:  Alexandria Ocasio-Cortez
+name:  Alexandria Ocasio-Cortez
 website:    https://ocasio-cortez.house.gov/
 state:      New York
 district:   "NY-14"
